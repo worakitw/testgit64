@@ -41,7 +41,7 @@ body {
 <h2 style="text-align:center">My Profile</h2>
 
 <div class="card">
-  <img src="jpg/1.jpg" alt="John" style="width:50%" >
+  <img src="image/it001.jpg" alt="John" style="width:50%" >
   <h1>ณัฐชนนท์ ใจแก้ว</h1>
   <h3>เพื่อนสนิท</h3>
   <p>ทอง ต้า ต่อ อั้ม แม็ก แล้วก็อีกหลายๆคน （กลุ่มนี้น่าจะเป็นกลุ่มที่ไปเที่ยวเล่นกันบ่อยสุดละมั้ง5555）</p>
