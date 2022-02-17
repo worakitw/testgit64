@@ -49,12 +49,12 @@ button:hover, a:hover {
 <h2 style="text-align:center">Profile Card</h2>
 
 <div class="card">
-  <img src="64309010017.jpg"  style="width:90%; margin-top:15px" >
+  <img src="picture_safe/64309010017.jpg"  style="width:90%; margin-top:15px" >
   <h1>นายศุภกร นทีธารทอง</h1>
   <p class="title">ที่อยู่ : ทุ่งขวาง พนัสนิคม ชลบุรี</p>
   <p>งานอดิเรก</p>
   <p class="title">ฟังเพลง เล่นเกมส์</p>
-  <p><img src="1.gif"  style="width:10%; margin-top:15px" >เพื่อนสนิท<img src="1.gif"  style="width:10%; margin-top:15px" ></p>
+  <p><img src="picture_safe/1.gif"  style="width:10%; margin-top:15px" >เพื่อนสนิท<img src="picture_safe/1.gif"  style="width:10%; margin-top:15px" ></p>
   <p class="title">เท่ง เด่น อ้วน</p>
   
   <p>
