@@ -61,9 +61,9 @@ body {
   <p></p>
   <p class="title">สามารถรับชมได้ที่ลิงค์ด้านล่างเลยครับ</p>
   <div style="margin: 25px 0;">
-    <a href="https://www.facebook.com/max.tanakorn.33/"></a><a href="#"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/m_xxtw/"></a><a href="#"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCzA3oKApyPq6czR4GjzXofw"></a><a href="#"><i class="fa fa-youtube"></i></a>
+    <a href="https://www.facebook.com/max.tanakorn.33/"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/m_xxtw/"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UCzA3oKApyPq6czR4GjzXofw"><i class="fa fa-youtube"></i></a>
 
   </div>
   <p><button>Contact</button></p>
