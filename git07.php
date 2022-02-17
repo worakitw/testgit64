@@ -54,7 +54,7 @@ body {
 <h2 style="text-align:center">My Profile</h2>
 
 <div class="card">
-  <img src="picture\64309010007.jpg" alt="John" style="width:75%">
+  <img src="picture_tanakorn\007.jpg" alt="John" style="width:75%">
   <h2>ชื่อ : นาย ธนากร วงศ์ทอง</h2>
   <p>เพื่อนสนิท : รัตนากร</p>
   <p>งานอดิเรก : ตัดต่อวิดีโอ</p>
