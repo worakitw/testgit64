@@ -28,7 +28,7 @@
   <!-- <div class="row"> -->
   <div class="imgcontainer">
     <div class="col-sm-8"  style="background-color:#D1EAF5; margin:auto;" ><br><br>
-    <img class="image" style="center" src="aranya.jpg"><br><br>
+    <img class="image" style="center" src="image/aranya.jpg"><br><br>
     <h2 class="#4D516D" style="center"><u>ประวัติส่วนตัว</u></h2><br>
     <div class="col-sm-8">
 </div>      
