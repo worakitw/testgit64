@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@1,300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mali',cursive;
+  font-weight: bold;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
+
+body {
+    background: url(../image/bg_Noppasin.png) no-repeat;
+    background-size: cover;
+}
+
+.profile {
+    width: 55%;
+    height: 75%;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    color: white;
+    padding: 50px 100px 50px 100px;
+    box-shadow: 15px 15px rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.profile_detail { font-size: 30px; }
+
+.Noppasin_img {
+    position: absolute;
+    left: -45%;
+}
+
+.Noppasin_img img {
+    width: 70%;
+    box-shadow: 15px 15px rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.detail { text-shadow: 0px 0px 10px whitesmoke; }
