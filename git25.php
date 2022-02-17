@@ -28,7 +28,7 @@
   <!-- <div class="row"> -->
   <div class="imgcontainer">
     <div class="col-sm-8"  style="background-color:#D1EAF5; margin:auto;" ><br><br>
-    <img class="image" style="center" src="aranya.jpg"><br><br>
+    <img class="image" style="center" src="image/aranya.jpg"><br><br>
     <h2 class="#4D516D" style="center"><u>ประวัติส่วนตัว</u></h2><br>
     <div class="col-sm-8">
 </div>      
@@ -36,7 +36,7 @@
     <h5>นางสาวอรัญญา ธนดำรงทรัพย์</h5>
     <h3>เพื่อนสนิท</h3>
     <h5>นายพชรพล สวัสดีมงคล</h5>
-    <h5>"คบมา 4 ปี อยากเลิกคนแล้ว"</h5>
+    <h5>"คบมา 4 ปี อยากเลิกคบแล้ว"</h5>
     <h3>งานอดิเรก</h3>
     <h5>นอน</h5>
 </div>
