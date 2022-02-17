@@ -1,7 +1,7 @@
 <style>
     .mys{
         /* background-color: paleturquoise; */
-        background-image: url('ball.jpg');
+        background-image: url('image/ball.jpg');
         /* filter: blur(8px);
         -webkit-filter: blur(8px); */
         padding-top: 10px;
