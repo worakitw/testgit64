@@ -51,7 +51,7 @@ body {
 <h2 style="text-align:center">Profile Card</h2>
 
 <div class="card">
-  <img src="jpgaun/1.jpg" alt="John" style="width:50%">
+  <img src="jpgaun/ronnakorn.jpg" alt="John" style="width:50%">
   <h1>นาย รณกร ฤทธิ์ศรี</h1>
   <p>เพื่อนสนิท เด่น เท่ง เซฟ</p>
   <p>งานอดิเรก สตีมเกม</p>
