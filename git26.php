@@ -10,7 +10,7 @@
 
   <div style="text-align: center;">
   <h2 class="text-warning" style="center" >ประวัติส่วนตัว</h2><br>
-        <img src="nine.jpeg" width="300px">
+        <img src="image/nine.jpeg" width="300px">
         <h4> </h4>
       
     </div>
