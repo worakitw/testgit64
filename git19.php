@@ -41,7 +41,7 @@
 	<p class="p3">Introduce Myself.</p>
 	</div><br>
     <div style="text-align:center">
-    <img src="noei.jpg" width="200" border="3" >
+    <img src="image/noei.jpg" width="200" border="3" >
     </div><br>
     <div class="center1" style="text-align:center">
     <h1>My name is Krittiyanee Jantabandit</h1>
@@ -49,8 +49,8 @@
     <p>แผนก : เทคโนโลยีสารสนเทศ</p>
     </div><br>
     <div class="center2" style="text-align:center">
-    <h3 class="p2">Close Friend : นางสาว ภัทรวดี นะราชรัมย์ <img src="pook.jpg" width="100" border="3" align="center"></h3>
-    <h3>งานอดิเรก : ฟังเพลง เล่นฟุตบอล <img src="n1.jpg" width="100" border="3" align="center"></h3>
+    <h3 class="p2">Close Friend : นางสาว ภัทรวดี นะราชรัมย์ <img src="image/pook.jpg" width="100" border="3" align="center"></h3>
+    <h3>งานอดิเรก : ฟังเพลง เล่นฟุตบอล <img src="image/n1.jpg" width="100" border="3" align="center"></h3>
     <a href="https://www.facebook.com/profile.php?id=100024584569030"><img src="https://cdn.pixabay.com/photo/2018/05/08/18/25/facebook-3383596_1280.png" width =50 ></a>
     
     </div>
