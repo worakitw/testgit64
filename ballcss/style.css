@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(56, 2, 66);
+}
+.haed{
+        height: 150px;
+        font-size: 50px;
+        margin: auto;
+        color: rgb(140, 0, 255);
+        text-shadow: 2px 2px 4px #000000;
+}
+
+.card-img{
+    border: 5px solid rgb(255, 255, 255);
+}
+.card-text{
+    
+    display: flex;
+    background-color: black;
+    border:5px solid white;
+    width: 70%;
+}
+.card-text p{
+        color: white;
+        font-size: 25px;
+}
+.sus{
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    border-right:5px solid white ;
+
+}
+.H {
+    
+    padding-left: 5%;
+    font-size: 40px;
+    color: white;
+}
+.h-story {
+    
+    font-size: 20px;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
