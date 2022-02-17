@@ -66,7 +66,7 @@ body {
     <a href="https://www.youtube.com/channel/UCzA3oKApyPq6czR4GjzXofw"><i class="fa fa-youtube"></i></a>
 
   </div>
-  <p><button></button></p>
+  <p><button>Thank you</button></p>
 </div>
 
 </body>

@@ -20,7 +20,7 @@
 </style>
 <body>
     <center><h1 style="background-color:tomato;">ประวัติส่วนตัว : นายจิตตพงษ์ รักสนิท</h1></center>
-    <center><img class="img" src="natee.jpg" alt=""></center>
+    <center><img class="img" src="pic_natee/natee.jpg" alt=""></center>
     <div class="text"><center><h2>อย่าว่าแต่เพื่อนสนิทเลยครับ แค่เพื่อนยังไม่มีเลย</h2></center>
     <center><h2>อายุ 18 ปี ศึกษาอยู่ที่ : วิทยาลัยเทคนิคชลบุรี</h2></center>
     <center><h2>แผนก : เทคโนโลยีสารสนเทศ สทส.1/3</h2></center></div>
