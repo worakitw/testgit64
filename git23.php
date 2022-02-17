@@ -12,7 +12,7 @@
   <style>
     .mys{
         /*background-color: rgb(255, 118, 118);*/
-        background-image:url("pict0.jpg");
+        background-image:url("image/pict0.jpg");
         padding:100px;
         background-repeat: no-repeat;
         background-size: 100%;
@@ -29,7 +29,6 @@
         <h1>FACT ABOUT ME</h1>
     </div>
 </head>
-<?php include_once 'Jumbotron.php';?>
 
     <div class="container" style="margin-top:30px">
         <style>
@@ -53,7 +52,7 @@
     <body style="background-color: #FFFF99;">
     <div class="border-box">
         <h1 style="text-align: center;">ข้อมูลส่วนตัว</h1><br>
-        <img text-align="center" style="width: 100%;" src="ping.jpg"><br><br><br>
+        <img text-align="center" style="width: 100%;" src="image/ping.jpg"><br><br><br>
                 <div class="center">
         
         <h3 class="dashed">ชื่อ : นางสาวพิมพาภรณ์ พงศ์พัชรา <br>
